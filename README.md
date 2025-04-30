@@ -8,6 +8,7 @@
 <h2>🌱 I’m currently learning:</h2>
 
 - <b>React:</b>
+  - Node.JS
   - Event Handling
   - Conditional Rendering
   - Lists(React)
