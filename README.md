@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Front-End Dev Practice</b>
+  - [HTML and CSS]
+
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Hello World Tutorial]
