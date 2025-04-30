@@ -19,15 +19,9 @@
 
 - <b>ServiceNow Application Developer: WGU <i>(in progress)</i></b>
 - <b>Data Structures and Algorithms in Python: DataCamp</b>
-- <b>Introduction to Python- DataCamp</b>
+- <b>Introduction to Python: DataCamp</b>
 
-<h2> 💡 Knowledgeable In:</h2>
-
-- <b>Networking Concepts</b>
-- <b>Diagnostics and Troubleshooting</b>
-- <b>HyperV Implementation</b>
-
-<h2> 🤳 Connect with me:</h2>
+<h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="BryvinDurham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
