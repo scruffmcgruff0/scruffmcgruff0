@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Front-End Dev Practice</b>
-  - [HTML and CSS]
+  - [HTML and CSS](https://github.com/scruffmcgruff0/CSS_Playing_Cards)
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
