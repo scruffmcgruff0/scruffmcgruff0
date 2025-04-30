@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bryvin! <br/><a href="https://github.com/scruffmcgruff0/">Programmer</a> <a href="https://www.linkedin.com/in/bryvind">| Hospitality Expert</a> </h1>
+<h1>Hi, I'm Bryvin! <br/><a href="https://github.com/scruffmcgruff0/">Programmer</a> <a href="https://www.linkedin.com/in/bryvind">| Hospitality</a> </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -17,6 +17,7 @@
 
 <h2>📄 Certifications</h2>
 
+- <b>ServiceNow Application Developer: WGU <i>(in progress)</i></b>
 - <b>Data Structures and Algorithms in Python: DataCamp</b>
 - <b>Introduction to Python- DataCamp</b>
 
