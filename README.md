@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Front-End Dev Practice:</b>
-  - [HTML CSS and JS](https://github.com/scruffmcgruff0/CSS_Playing_Cards)
+  - [HTML, CSS, JS, ReactJS](https://github.com/scruffmcgruff0/CSS_Playing_Cards)
 
 <h2>🌱 I’m currently learning:</h2>
 
