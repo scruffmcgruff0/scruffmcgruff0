@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Front-End Dev Practice:</b>
-  - [HTML and CSS](https://github.com/scruffmcgruff0/CSS_Playing_Cards)
+  - [HTML CSS and JS](https://github.com/scruffmcgruff0/CSS_Playing_Cards)
 
 <h2>🌱 I’m currently learning:</h2>
 
@@ -14,11 +14,16 @@
   - Forms(React)
   - Bootstrap(React)
 
-
 <h2>📄 Certifications</h2>
 
 - <b>Data Structures and Algorithms in Python: DataCamp</b>
 - <b>Introduction to Python- DataCamp</b>
+
+<h2> 💡 Knowledgeable In:</h2>
+
+- <b>Networking Concepts</b>
+- <b>Diagnostics and Troubleshooting</b>
+- <b>HyperV Implementation</b>
 
 <h2> 🤳 Connect with me:</h2>
 
