@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bryvin! <br/><a href="https://github.com/scruffmcgruff0/">Programmer</a> <a href="https://www.linkedin.com/in/bryvind">| Hospitality</a> <a href="https://www.instagram.com/fluid_maestro/">| Gaming</h1>
+<h1>Hi, I'm Bryvin! <br/><a href="https://github.com/scruffmcgruff0/">Programmer</a> <a href="https://www.linkedin.com/in/bryvind">| Hospitality</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
